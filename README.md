@@ -7,9 +7,9 @@ Just click on the `GoCD.alfredworkflow` to download.
 
 ## Setup
 
-1. `gocd-baseurl`: enter the base url for your GoCD instance (i.e. `https://build.gocd.org`)
-2. `gocd-un`: the username to log in to GoCD
-3. `gocd-refresh`: will prompt for a password and the load the pipelines
+1. Enter `gocd-baseurl` into Alfred prompt followed by the base url for the GoCD instance: `https://websystems.ramseysolutions.net` and run.
+2. Enter `gocd-un` into Alfred prompt followed by your username to log in to GoCD (i.e. `first.last`) and run.
+3. Enter `gocd-refresh` into Alfred prompt and run. This will prompt for your password and then load the pipelines.
 
 ## Usage
 
