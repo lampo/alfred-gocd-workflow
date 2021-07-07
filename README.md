@@ -7,9 +7,9 @@ Just click on the `GoCD.alfredworkflow` to download.
 
 ## Setup
 
-1. Enter `gocd-baseurl` into Alfred prompt followed by the base url for the GoCD instance: `https://websystems.ramseysolutions.net` and run.
-2. Enter `gocd-un` into Alfred prompt followed by your username to log in to GoCD (i.e. `first.last`) and run.
-3. Enter `gocd-refresh` into Alfred prompt and run. This will prompt for your password and then load the pipelines.
+1. Enter `gocd-baseurl` into Alfred prompt followed by `https://websystems.ramseysolutions.net` as the base url for the GoCD instance and click `enter/return` on keyboard to run.
+2. Enter `gocd-un` into Alfred prompt followed by your Ramsey username to log in to GoCD (i.e. `first.last`) and  click `enter/return` on keyboard to run.
+3. Enter `gocd-refresh` into Alfred prompt and  click `enter/return` on keyboard to run. This will prompt for your password and then load the pipelines.
 
 ## Usage
 
